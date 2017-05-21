@@ -1,0 +1,5 @@
+1. Download Git
+2. Download Python
+3. Download Notepad++
+4. Get Python into the path for command line use
+5. Get Notepad++ to be able execute commands from the buffer
